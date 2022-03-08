@@ -10,4 +10,5 @@ All of the following files are scripts
 | Filename | Descriptions |
 | -------- | ------------ |
 | [`0-alias`](0-alias) | Creates an alias |
+| [`1-hello_you`](1-hello_you) | Prints `hello user`, where user is the current Linux user |
 
