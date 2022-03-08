@@ -10,5 +10,9 @@ All of the following files are scripts
 | Filename | Descriptions |
 | -------- | ------------ |
 | [`0-alias`](0-alias) | Creates an alias |
-| [`1-hello_you`](1-hello_you) | Prints `hello user`, where user is the current Linux user |
-
+| [`1-hello_you`](1-hello_you) | Prints `hello user`, where user is the current Linux user. |
+| [`2-path`](2-path) | Add `/action` to the `PATH`. `/action` should be the last directory the shell looks into when looking for a program. |
+| [`3-paths`](3-paths) | Counts the number of the directories in the `PATH`. |
+| [`4-global_variables`](4-global_variables) | List environment variables. |
+| [`5-local_variables`](5-local_variables) | Lists all local variables and environment variables, and functions. |
+| [`6-`]|
