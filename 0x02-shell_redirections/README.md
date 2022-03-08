@@ -3,8 +3,8 @@
 Project done during **Full Stack Software Engineering studies** at [**ALX School**](https://www.alxafrica.com/). It aims to learn about how to handle standard input and output and how to combine commands and filters with redirections in [**Shell**](https://www.shellscript.sh/).
 
 ## Technologies
-* Scripts written in Bash 5.1
-* Tested on `Ubuntu 20.04 LTS`
+* Scripts written in [`Bash 5.1`](https://www.gnu.org/software/bash/)
+* Tested on [`Ubuntu 20.04 LTS`](https://ubuntu.com/download/desktop)
 
 ## Files
 All of the following files are scripts:
