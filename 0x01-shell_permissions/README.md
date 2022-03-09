@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Shell, Permissions
 
 Project done during **Full Stack Software Engineering studies** at [**Alx School**](https://www.alxafrica.com/). It aims to learn about man pages, permissions (owner, group and other) of files and directories in [**Shell**](https://www.shellscript.sh/).
@@ -29,3 +30,10 @@ All of the following files are scripts:
 | [`101-symbolic_link_permissions`](101-symbolic_link_permissions) | Changes the owner and the group owner of the file `_hello` to `vincent` and `staff` respectively |
 | [`102-if_only`](102-if_only) | Changes the owner of the file `hello` to `betty` only if it is owned by the user `guillaume` |
 | [`103-Star_Wars`](103-Star_Wars) | Plays the Star Wars IV episode in the terminal |
+=======
+<<<<<<< HEAD
+## 0x00-shell_permissions
+=======
+Scripts
+>>>>>>> ac64e3457d3a383f174e67e42c81815212baa366
+>>>>>>> 695b9ad3f3826decee04a8cebaaac74c9b8d909e

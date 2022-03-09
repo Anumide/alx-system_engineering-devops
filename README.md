@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # System Engineering & Devops
 
 Module of **System engineering** and **Devops**, carried out during **Full Stack Software Engineering studies** at **[Alx School](https://www.alxafrica.com/)**.
@@ -15,3 +16,8 @@ All of the following folders are projects done during the studies:
 | [`0x01-shell_permissions`](0x01-shell_permissions) | It aims to learn about man pages, permissions (owner, group and other) of files and directories in **Shell** |
 | [`0x02-shell_redirections`](0x02-shell_redirections) | It aims to learn about how to handle standard input and output and how to combine commands and filters with redirections in **Shell** |
 | [`0x03-shell_variables_expansions`](0x03-shell_variables_expansions) | It aims to learn about alias builtin, help builtin, local, global and reserved variables (PATH, HOME and PS1), special parameters `$?`, expansions, init files, arithmetics and single & double quotes in **Shell** |
+=======
+
+# alx-system_engineering-devops
+
+>>>>>>> 695b9ad3f3826decee04a8cebaaac74c9b8d909e
