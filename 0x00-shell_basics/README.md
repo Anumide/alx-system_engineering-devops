@@ -1,6 +1,6 @@
 # Shell, Basics
 
-Project done during **Full Stack Software Engineering studies** at [**ALX School**](https://www.alxafrica.com/). It aims to learn about how to handle standard input and output and how to combine commands and filters with redirections in [**Shell**](https://www.shellscript.sh/).
+Project done during **Full Stack Software Engineering studies** at [**ALX School**](https://www.alxafrica.com/). It aims to learn about basics commands, navigation, files and directories in [**Shell**](https://www.shellscript.sh/).
 
 ## Technologies
 * Scripts written in [`Bash 5.1`](https://www.gnu.org/software/bash/)
